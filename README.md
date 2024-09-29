@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @VidwathNK
 - 👀 I’m interested in ...CyberSec
+- ♟️ Senior National Arbiter
 - 🌱 I’m currently learning ...Engineering
 - 😄 Pronouns: ...male
 
