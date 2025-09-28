@@ -24,7 +24,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?logo=visualstudiocode&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
-
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-2BCA72?logo=parrot&logoColor=white)  
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
 ---
 
 ## 📊 My GitHub Snapshot  
