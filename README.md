@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @VidwathNK
-- 👀 I’m interested in ...CyberSec
-- ♟️ Senior National Arbiter
-- 🌱 I’m currently learning ...Engineering
-- 😄 Pronouns: ...male
-
-
 # 👋 Hey, I'm Vidwath N Karanth  
 
 🎓 **2nd Year CSE Student** | 📚 **Curious & Lifelong Learner**  
@@ -51,7 +44,7 @@
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidwath-n-karanth-4a124a27b/?originalSubdomain=in)  
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/whitehat332)
 
 ---
 
